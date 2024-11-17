@@ -1,0 +1,8 @@
+kaggle_environments 
+chex 
+gymnax 
+pygame 
+termcolor 
+numpy 
+pandas 
+matplotlib
